@@ -59,6 +59,14 @@
         },
         {
           "object": "item",
+          "id": 221,
+          "name": "Pizza Napolitaine",
+          "price": 1400,
+          "currency": "€",
+          "color": "#BD9B70"
+        },
+        {
+          "object": "item",
           "id": 222,
           "name": "Mousse au Chocolat",
           "price": 900,
